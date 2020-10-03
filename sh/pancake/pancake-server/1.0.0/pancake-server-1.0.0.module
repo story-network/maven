@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "4jvhe5mquvfwrl4kfczafqrfuy"
+      "buildId": "3wl3l6cxhrf5bnlrcp5xe434fm"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "pancake-server-1.0.0.jar",
           "url": "pancake-server-1.0.0.jar",
-          "size": 55615,
-          "sha512": "cd4e2738a49cf23b88908f0a74a1c2c0fce8824e2c58a33ad17c8f22589d9b59623cd111c96fcf5cf589ccb081d131a1fea4c3278eb2ca1ae801919910f138d5",
-          "sha256": "630f0e641c61aebba929cbb4ea8aaa150f0a08c79a866a6585c3d0362f10be2f",
-          "sha1": "443843a38d8a07a883d17d9558dc65da7e9f5780",
-          "md5": "aaaa59e948d5ff2715a0d6581a02aeeb"
+          "size": 55623,
+          "sha512": "724f4b17507bb5c049aa309015f13d2d8c98fde71bee566e56a60c536e4c3d5d7e9a0604cfbe2ab1612493a44e91491627bfe76cf673595d7d7569b2035ce98d",
+          "sha256": "1869b8b4ea0b9c2db29323bf905af1b5932ebe0deabfaf66a946a6094fc68117",
+          "sha1": "4ea5d03a6f60f4284a8436145864a3123f47d6a6",
+          "md5": "6924f391ce7ca6eba4b549ac7dfe680c"
         }
       ]
     },
@@ -170,11 +170,11 @@
         {
           "name": "pancake-server-1.0.0.jar",
           "url": "pancake-server-1.0.0.jar",
-          "size": 55615,
-          "sha512": "cd4e2738a49cf23b88908f0a74a1c2c0fce8824e2c58a33ad17c8f22589d9b59623cd111c96fcf5cf589ccb081d131a1fea4c3278eb2ca1ae801919910f138d5",
-          "sha256": "630f0e641c61aebba929cbb4ea8aaa150f0a08c79a866a6585c3d0362f10be2f",
-          "sha1": "443843a38d8a07a883d17d9558dc65da7e9f5780",
-          "md5": "aaaa59e948d5ff2715a0d6581a02aeeb"
+          "size": 55623,
+          "sha512": "724f4b17507bb5c049aa309015f13d2d8c98fde71bee566e56a60c536e4c3d5d7e9a0604cfbe2ab1612493a44e91491627bfe76cf673595d7d7569b2035ce98d",
+          "sha256": "1869b8b4ea0b9c2db29323bf905af1b5932ebe0deabfaf66a946a6094fc68117",
+          "sha1": "4ea5d03a6f60f4284a8436145864a3123f47d6a6",
+          "md5": "6924f391ce7ca6eba4b549ac7dfe680c"
         }
       ]
     },
@@ -191,11 +191,11 @@
         {
           "name": "pancake-server-1.0.0-all.jar",
           "url": "pancake-server-1.0.0-all.jar",
-          "size": 18475071,
-          "sha512": "ccccdcb388849538b4ab92e07e5d0b127bdc974e90bd8da3190f06ff3160e54abd35cbfd6c21b0a02bc52b8fd37a0f8ba9680e2ad2c0573abf96a9d67576cf53",
-          "sha256": "f32197a991652fa21f81b82ab299a4eb291eda9d611172fc6bd5d3f51a52f8ad",
-          "sha1": "f7818ade5723936b16d344be4b18e62bc6296c14",
-          "md5": "6fb59ae2f03685c243bcbcdb15c8d248"
+          "size": 18475079,
+          "sha512": "4dacd7ef8c61fcdfc81bc9a0493c90bda3bfedcdfae4a21f853623381a8059bfd08a5938c9afea3612e23297d9a716d34a56bf05fb7bb303395f1163703c8345",
+          "sha256": "648d2e87c5e6bb3baad77c0671afca56f583cd05318852ee0bd819d3e2f0d120",
+          "sha1": "95d18ee5eae8d22c8d51bd77a57419a7132774b9",
+          "md5": "10255690490b1384b596d76a8af5ef00"
         }
       ]
     }
