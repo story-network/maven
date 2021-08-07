@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "ahjctkrjsfckfem76ghhzahiwi"
+      "buildId": "g5e43oxinbdide6tmb75oo3eae"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "storymap-2.0.0.jar",
           "url": "storymap-2.0.0.jar",
-          "size": 14407,
-          "sha512": "4b7a5b5a02fb873e224634a2201f1e4d10017f0cc56e34816d85974284b4f11c05cbd3712d6a10723f30affed2415d3742942261247e9e8cc66625e7251e675a",
-          "sha256": "379ffd3dfe040c8abe4f4d6016f71736105cca16be42c7bf01d5ca15732b17bd",
-          "sha1": "712312a11616f05af38e958347dabc04d71e9923",
-          "md5": "a973be7407ca836f26b1bac1f848171f"
+          "size": 14401,
+          "sha512": "8a7716bd129165778e41fd263a88a3785935eed391646a3b1a70e7f8c993cdde99ad05c125a51053ebf9c2520ade5acbaf28c0f31ae24076fea45ad5dc1e51c1",
+          "sha256": "274b7790e6a669fa36be6c67a3fb4d586c3d95ae11d146b3dcb44802cbc59f31",
+          "sha1": "b34a105c4620fb0b40ba74821e8cabf5ed2a7025",
+          "md5": "47784e45012d9815f0b076ec6b9ae9dd"
         }
       ]
     },
@@ -72,11 +72,11 @@
         {
           "name": "storymap-2.0.0.jar",
           "url": "storymap-2.0.0.jar",
-          "size": 14407,
-          "sha512": "4b7a5b5a02fb873e224634a2201f1e4d10017f0cc56e34816d85974284b4f11c05cbd3712d6a10723f30affed2415d3742942261247e9e8cc66625e7251e675a",
-          "sha256": "379ffd3dfe040c8abe4f4d6016f71736105cca16be42c7bf01d5ca15732b17bd",
-          "sha1": "712312a11616f05af38e958347dabc04d71e9923",
-          "md5": "a973be7407ca836f26b1bac1f848171f"
+          "size": 14401,
+          "sha512": "8a7716bd129165778e41fd263a88a3785935eed391646a3b1a70e7f8c993cdde99ad05c125a51053ebf9c2520ade5acbaf28c0f31ae24076fea45ad5dc1e51c1",
+          "sha256": "274b7790e6a669fa36be6c67a3fb4d586c3d95ae11d146b3dcb44802cbc59f31",
+          "sha1": "b34a105c4620fb0b40ba74821e8cabf5ed2a7025",
+          "md5": "47784e45012d9815f0b076ec6b9ae9dd"
         }
       ]
     }
