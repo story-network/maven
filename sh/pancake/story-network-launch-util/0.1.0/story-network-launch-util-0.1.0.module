@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "vvwagapodbditjcpmhpoe7v5b4"
+      "buildId": "ihr24r22xncddjnoxch6yceeji"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "story-network-launch-util-0.1.0.jar",
           "url": "story-network-launch-util-0.1.0.jar",
-          "size": 16075,
-          "sha512": "37040db15e78c26db26886a882e2aa01541ed5969172b4d4c53aa156a4eb4a32dd036125ef9b1a5e1ea0e65d61c9ab3f724bf69c117710235c6e90d15446b84e",
-          "sha256": "205c65f2e09199b5ef9610329edc6e0e8badd0e95d91e882ce963ccf8cda4111",
-          "sha1": "018e6462e4319c41d5e78f39a1b249340aebed1c",
-          "md5": "3717e6766a53cf1b8b92ff850d91470f"
+          "size": 16092,
+          "sha512": "72dc4436df191b6bab03653ae1ee63e71ca06b65b82eb5c6e7704a31dde8dddcc95e065cbd59f878b48567a4b44c5f78739463a6616a0428bf9ae34028bf4fc1",
+          "sha256": "433d8982c2d0cbd504c975ca0720afd9e5f81cf595c9314426e8e7498ad50f68",
+          "sha1": "955cbe158a79c6a303f633fa6de82c9c0f6945f2",
+          "md5": "b4f2bd9af060e812c5056fd92b1cf318"
         }
       ]
     },
@@ -58,11 +58,11 @@
         {
           "name": "story-network-launch-util-0.1.0.jar",
           "url": "story-network-launch-util-0.1.0.jar",
-          "size": 16075,
-          "sha512": "37040db15e78c26db26886a882e2aa01541ed5969172b4d4c53aa156a4eb4a32dd036125ef9b1a5e1ea0e65d61c9ab3f724bf69c117710235c6e90d15446b84e",
-          "sha256": "205c65f2e09199b5ef9610329edc6e0e8badd0e95d91e882ce963ccf8cda4111",
-          "sha1": "018e6462e4319c41d5e78f39a1b249340aebed1c",
-          "md5": "3717e6766a53cf1b8b92ff850d91470f"
+          "size": 16092,
+          "sha512": "72dc4436df191b6bab03653ae1ee63e71ca06b65b82eb5c6e7704a31dde8dddcc95e065cbd59f878b48567a4b44c5f78739463a6616a0428bf9ae34028bf4fc1",
+          "sha256": "433d8982c2d0cbd504c975ca0720afd9e5f81cf595c9314426e8e7498ad50f68",
+          "sha1": "955cbe158a79c6a303f633fa6de82c9c0f6945f2",
+          "md5": "b4f2bd9af060e812c5056fd92b1cf318"
         }
       ]
     }
