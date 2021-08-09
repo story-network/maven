@@ -23,27 +23,6 @@
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
-      "files": [
-        {
-          "name": "pancake-launcher-0.1.0.jar",
-          "url": "pancake-launcher-0.1.0.jar",
-          "size": 22381,
-          "sha512": "65e49c2a5768b6a5bad5f5d80e37d3a14c62430da259a62300a060a9df3c847df7f5915aca08022659aa8e2297573bb8ae3c7af05e474be63f68311cd0ad4f9d",
-          "sha256": "107be1d61ee58028779a5502969a24211bdc564976bdb258b386311aa1a70a87",
-          "sha1": "59ecd5d0c9c78373da99b180251d18a445ab57a4",
-          "md5": "4e6c7d3ca38488af219d72fe92845b6d"
-        }
-      ]
-    },
-    {
-      "name": "runtimeElements",
-      "attributes": {
-        "org.gradle.category": "library",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 11,
-        "org.gradle.libraryelements": "jar",
-        "org.gradle.usage": "java-runtime"
-      },
       "dependencies": [
         {
           "group": "sh.pancake",
@@ -81,13 +60,6 @@
           }
         },
         {
-          "group": "org.fusesource.jansi",
-          "module": "jansi",
-          "version": {
-            "requires": "1.18"
-          }
-        },
-        {
           "group": "org.spongepowered",
           "module": "mixin",
           "version": {
@@ -107,6 +79,36 @@
               "module": "log4j-core"
             }
           ]
+        }
+      ],
+      "files": [
+        {
+          "name": "pancake-launcher-0.1.0.jar",
+          "url": "pancake-launcher-0.1.0.jar",
+          "size": 22381,
+          "sha512": "65e49c2a5768b6a5bad5f5d80e37d3a14c62430da259a62300a060a9df3c847df7f5915aca08022659aa8e2297573bb8ae3c7af05e474be63f68311cd0ad4f9d",
+          "sha256": "107be1d61ee58028779a5502969a24211bdc564976bdb258b386311aa1a70a87",
+          "sha1": "59ecd5d0c9c78373da99b180251d18a445ab57a4",
+          "md5": "4e6c7d3ca38488af219d72fe92845b6d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.fusesource.jansi",
+          "module": "jansi",
+          "version": {
+            "requires": "1.18"
+          }
         },
         {
           "group": "org.ow2.asm",
@@ -142,6 +144,62 @@
           "version": {
             "requires": "7.1"
           }
+        },
+        {
+          "group": "sh.pancake",
+          "module": "pancake-sauce",
+          "version": {
+            "requires": "0.1.0"
+          }
+        },
+        {
+          "group": "sh.pancake",
+          "module": "story-network-launch-util",
+          "version": {
+            "requires": "0.1.0"
+          }
+        },
+        {
+          "group": "info.picocli",
+          "module": "picocli",
+          "version": {
+            "requires": "4.6.1"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-core",
+          "version": {
+            "requires": "2.8.1"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-api",
+          "version": {
+            "requires": "2.8.1"
+          }
+        },
+        {
+          "group": "org.spongepowered",
+          "module": "mixin",
+          "version": {
+            "requires": "0.8"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "modlauncher"
+            },
+            {
+              "group": "*",
+              "module": "launchwrapper"
+            },
+            {
+              "group": "org.apache.logging.log4j",
+              "module": "log4j-core"
+            }
+          ]
         }
       ],
       "files": [
@@ -169,10 +227,10 @@
           "name": "pancake-launcher-0.1.0-all.jar",
           "url": "pancake-launcher-0.1.0-all.jar",
           "size": 6915378,
-          "sha512": "23b57dcda9969843b04fe7bff90f07cb1385f65f15fcb2c334b7621a39848d642c52e78d92c23a68335fcbcbdd28ab69c0998e3fd8c04dafa8087045172829ca",
-          "sha256": "e7733a2ba730a4472fa6fc80f8ae94130569100cd72ae0bcb078582a6ba37006",
-          "sha1": "12535e9a423429f34fc21025daf185b5f3f9db16",
-          "md5": "0593c182928d8069b1570dedf381bd45"
+          "sha512": "9df7d795fd69ce8e6b0862b6924f5357d0523e7d4772dbf07a5f4cdfa4b94317f505ad8134f77f563f06ff4e574ea763e8a5744a1fc8e60e00b27d88136ff1cd",
+          "sha256": "91155e5b06e06ec82e04ac8e4772d79b6294e71696117052be47a2c739fcbea3",
+          "sha1": "131c4c88f321cd282b37a294f0cd7cd7c7a4d5e9",
+          "md5": "1f6804821d28de319e4025adb50b14dd"
         }
       ]
     },
