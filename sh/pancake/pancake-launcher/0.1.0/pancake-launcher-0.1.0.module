@@ -39,13 +39,6 @@
           }
         },
         {
-          "group": "info.picocli",
-          "module": "picocli",
-          "version": {
-            "requires": "4.6.1"
-          }
-        },
-        {
           "group": "org.apache.logging.log4j",
           "module": "log4j-core",
           "version": {
@@ -104,6 +97,13 @@
       },
       "dependencies": [
         {
+          "group": "info.picocli",
+          "module": "picocli",
+          "version": {
+            "requires": "4.6.1"
+          }
+        },
+        {
           "group": "org.fusesource.jansi",
           "module": "jansi",
           "version": {
@@ -157,13 +157,6 @@
           "module": "story-network-launch-util",
           "version": {
             "requires": "0.1.0"
-          }
-        },
-        {
-          "group": "info.picocli",
-          "module": "picocli",
-          "version": {
-            "requires": "4.6.1"
           }
         },
         {
@@ -227,10 +220,10 @@
           "name": "pancake-launcher-0.1.0-all.jar",
           "url": "pancake-launcher-0.1.0-all.jar",
           "size": 6915378,
-          "sha512": "9df7d795fd69ce8e6b0862b6924f5357d0523e7d4772dbf07a5f4cdfa4b94317f505ad8134f77f563f06ff4e574ea763e8a5744a1fc8e60e00b27d88136ff1cd",
-          "sha256": "91155e5b06e06ec82e04ac8e4772d79b6294e71696117052be47a2c739fcbea3",
-          "sha1": "131c4c88f321cd282b37a294f0cd7cd7c7a4d5e9",
-          "md5": "1f6804821d28de319e4025adb50b14dd"
+          "sha512": "ff8680bcac99922fd916201eb09a2462f7cce55364c99438591b533cc98ae281c72cbb2c189c41dfce35d658863fbe431ef786bc7326f37419408e546772b3f8",
+          "sha256": "ccdb103e98fe7e7839d9e7ce9b89c376b8eb84366913742bb7d9fef14cd08548",
+          "sha1": "f283973936b124824b9b7fe56d743d2f61b0a0ab",
+          "md5": "9ea8776d1612859ad8660f4d893ebee8"
         }
       ]
     },
