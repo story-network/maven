@@ -113,11 +113,11 @@
         {
           "name": "pancake-launcher-0.4.1.jar",
           "url": "pancake-launcher-0.4.1.jar",
-          "size": 25207,
-          "sha512": "f811fc9757a6e8d45e7d5633ef5c051547a757b4ff19b9d47e5127dd927d1966a1e8798ee1d7b641b5db75f2613bfd6c38e42a882c8a83de19bcac86d566eea0",
-          "sha256": "895f5d986e0bb40df4e61ba96ca18cfccbbd788242b10411fd5e5c7714666da7",
-          "sha1": "8d487a161706955ede8b80c7576bf2f11bb68e56",
-          "md5": "600290bd823318db9082966fc7fd677e"
+          "size": 25220,
+          "sha512": "93341bb02f81a4d5812613994792930fd5ee61015bbdacd37c0a786446c58d608c32c5c813954954d58392da24f265f78c225234c48146ded998ecd1abef3721",
+          "sha256": "6a61adb4c0b23aafb33d1b55fc76971acd6f96f5f81c780d7165324081dcd93c",
+          "sha1": "f08ae972b5dc2c0de261c4c99de52e18ace0ee03",
+          "md5": "da744ce317ac9e2ec867a4fdb6bb9cef"
         }
       ]
     },
@@ -241,11 +241,11 @@
         {
           "name": "pancake-launcher-0.4.1.jar",
           "url": "pancake-launcher-0.4.1.jar",
-          "size": 25207,
-          "sha512": "f811fc9757a6e8d45e7d5633ef5c051547a757b4ff19b9d47e5127dd927d1966a1e8798ee1d7b641b5db75f2613bfd6c38e42a882c8a83de19bcac86d566eea0",
-          "sha256": "895f5d986e0bb40df4e61ba96ca18cfccbbd788242b10411fd5e5c7714666da7",
-          "sha1": "8d487a161706955ede8b80c7576bf2f11bb68e56",
-          "md5": "600290bd823318db9082966fc7fd677e"
+          "size": 25220,
+          "sha512": "93341bb02f81a4d5812613994792930fd5ee61015bbdacd37c0a786446c58d608c32c5c813954954d58392da24f265f78c225234c48146ded998ecd1abef3721",
+          "sha256": "6a61adb4c0b23aafb33d1b55fc76971acd6f96f5f81c780d7165324081dcd93c",
+          "sha1": "f08ae972b5dc2c0de261c4c99de52e18ace0ee03",
+          "md5": "da744ce317ac9e2ec867a4fdb6bb9cef"
         }
       ]
     },
@@ -261,11 +261,11 @@
         {
           "name": "pancake-launcher-0.4.1-all.jar",
           "url": "pancake-launcher-0.4.1-all.jar",
-          "size": 6917505,
-          "sha512": "6893e64bd2578682179c10122a9f5639b363467ef667b5355c377b2292f4195a951ab12ecd5c7b3e79fd19f35ce6d2ced563f1775b7be6b8939885598b264b04",
-          "sha256": "8c5963ec21bc059c6b1fbcfd82e42a5e62a69925b43eb9d95f123e4a9ec93e40",
-          "sha1": "a668f15b52efbf1c920108c51d7b42ca522523c5",
-          "md5": "9ca1bce9f21d89cb5b7d5790b5d3ac12"
+          "size": 6917518,
+          "sha512": "680c04a548207edb34a521cf07e4609cd7d0ad09bcba1fc1a90f17b26d80754e5fea3b93567646e1404cc89c5f4e0e5f831b295f78d08cc2509c693c4235c590",
+          "sha256": "52c3ecee4f3a745d746df35022a14d6d6c87fe0a9f40c4b6922014d62fb81a5a",
+          "sha1": "85d330633feac1aa2bdcfe3a7fa4aa06e98f26c5",
+          "md5": "c49371255d7a4d376a417f1712bfa201"
         }
       ]
     },
@@ -281,11 +281,11 @@
         {
           "name": "pancake-launcher-0.4.1-sources.jar",
           "url": "pancake-launcher-0.4.1-sources.jar",
-          "size": 15591,
-          "sha512": "a31f64cf41e5ed0ed528dfb9fd4442c4ecf4f52e18d3b29c8a3b075d8e8609cc27b184befee3b0df58f7946744effe2f40fdc00fa266155382ecc842dfaec508",
-          "sha256": "aa8bc9d94187c12e9d30facd0b2feedff67759823f169f925b3f5d07e3145730",
-          "sha1": "88be16316227280b8f1ed24450a3591896dac08f",
-          "md5": "64d7ed1dd9b9a7d6fb8baacfe5221a81"
+          "size": 15602,
+          "sha512": "41263439c77b5d934f0e732dcc8fbc86dee387acb694862d6ea1d33c8b2dc58fdffe3bdd55d9c8de20735d57f2b6375296135da87e83ade3d25e19c2976a1a30",
+          "sha256": "dbd46352c78fed5a5b9d78052af86e5f44cf4555a45b1710967bc5d21a58cd76",
+          "sha1": "08dfa99b6604c95d1fb3ffd73d130ad60c6e82f7",
+          "md5": "7b562471d629bfcc3a94afb9ec661b6c"
         }
       ]
     }
