@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.1",
-      "buildId": "tyvigmivabcbbpqdjq3vfcoqyu"
+      "buildId": "gzbe5rigmfcypcqg6n2tdgsvj4"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "pancake-sauce-0.2.0.jar",
           "url": "pancake-sauce-0.2.0.jar",
-          "size": 27803,
-          "sha512": "c41b6a228dc629d7e2a16fc6ee60b116f5efa4791b2ebf8950b16557255c2d994b84c1490b26b6b1d9b8b79a416675314139cf21bd4baadc03190e215b433ebd",
-          "sha256": "8e6f82d223e6537359dd657fd9e9a732782eeb03504dd9446bfd9a03eb28d34e",
-          "sha1": "b0124ff80e171d8d5cab7ff897ee1f2269b5c157",
-          "md5": "af6c1d1e49b63360a86783372465ddc7"
+          "size": 27804,
+          "sha512": "c5498df7efe656a9722c226d8512fd416bc0206f817d2c55c6ff7662d0585549b8f5a0f556557b3f4c9c093b47aa62b8e9d81224978af34e6db5d5b1f712d4f8",
+          "sha256": "d0cb2386bdaa3f2a1a47b5416d99586c24038f7c8a6e7f2fdcff86cd20c0f633",
+          "sha1": "bb4cf3c5292fe8faeff43ac2d119ff2f977ab4f0",
+          "md5": "8e4b5bdb579e44728edb69f166706405"
         }
       ]
     },
@@ -72,11 +72,11 @@
         {
           "name": "pancake-sauce-0.2.0.jar",
           "url": "pancake-sauce-0.2.0.jar",
-          "size": 27803,
-          "sha512": "c41b6a228dc629d7e2a16fc6ee60b116f5efa4791b2ebf8950b16557255c2d994b84c1490b26b6b1d9b8b79a416675314139cf21bd4baadc03190e215b433ebd",
-          "sha256": "8e6f82d223e6537359dd657fd9e9a732782eeb03504dd9446bfd9a03eb28d34e",
-          "sha1": "b0124ff80e171d8d5cab7ff897ee1f2269b5c157",
-          "md5": "af6c1d1e49b63360a86783372465ddc7"
+          "size": 27804,
+          "sha512": "c5498df7efe656a9722c226d8512fd416bc0206f817d2c55c6ff7662d0585549b8f5a0f556557b3f4c9c093b47aa62b8e9d81224978af34e6db5d5b1f712d4f8",
+          "sha256": "d0cb2386bdaa3f2a1a47b5416d99586c24038f7c8a6e7f2fdcff86cd20c0f633",
+          "sha1": "bb4cf3c5292fe8faeff43ac2d119ff2f977ab4f0",
+          "md5": "8e4b5bdb579e44728edb69f166706405"
         }
       ]
     }
