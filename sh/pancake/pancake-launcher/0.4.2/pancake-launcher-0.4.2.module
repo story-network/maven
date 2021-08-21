@@ -1,0 +1,293 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "sh.pancake",
+    "module": "pancake-launcher",
+    "version": "0.4.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "sh.pancake",
+          "module": "story-network-launch-util",
+          "version": {
+            "requires": "0.1.0"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-core",
+          "version": {
+            "requires": "2.8.1"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-api",
+          "version": {
+            "requires": "2.8.1"
+          }
+        },
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "org.spongepowered",
+          "module": "mixin",
+          "version": {
+            "requires": "0.8"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "modlauncher"
+            },
+            {
+              "group": "*",
+              "module": "launchwrapper"
+            },
+            {
+              "group": "org.apache.logging.log4j",
+              "module": "log4j-core"
+            }
+          ]
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-analysis",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-commons",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-tree",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-util",
+          "version": {
+            "requires": "9.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "pancake-launcher-0.4.2.jar",
+          "url": "pancake-launcher-0.4.2.jar",
+          "size": 25142,
+          "sha512": "517c0e27450025d0693450c0edaeea00fbd5f05231ef6b6aa557bd048829d61b32603d9139a27de2125f77df5dc656b4e3b4d6ddf10277bbcc179b3234506080",
+          "sha256": "f956fd0e84e199c560bc66a9a963fa95b46d34cc44a71d489ba3bb2fca064ba6",
+          "sha1": "00023b257a23fcac1432d12823eb97ba00f4cfd5",
+          "md5": "8e4954c92997ce2b844491691ebfe6b7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "sh.pancake",
+          "module": "pancake-sauce",
+          "version": {
+            "requires": "0.3.0"
+          }
+        },
+        {
+          "group": "info.picocli",
+          "module": "picocli",
+          "version": {
+            "requires": "4.6.1"
+          }
+        },
+        {
+          "group": "org.fusesource.jansi",
+          "module": "jansi",
+          "version": {
+            "requires": "1.18"
+          }
+        },
+        {
+          "group": "sh.pancake",
+          "module": "story-network-launch-util",
+          "version": {
+            "requires": "0.1.0"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-core",
+          "version": {
+            "requires": "2.8.1"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-api",
+          "version": {
+            "requires": "2.8.1"
+          }
+        },
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "org.spongepowered",
+          "module": "mixin",
+          "version": {
+            "requires": "0.8"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "modlauncher"
+            },
+            {
+              "group": "*",
+              "module": "launchwrapper"
+            },
+            {
+              "group": "org.apache.logging.log4j",
+              "module": "log4j-core"
+            }
+          ]
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-analysis",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-commons",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-tree",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-util",
+          "version": {
+            "requires": "9.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "pancake-launcher-0.4.2.jar",
+          "url": "pancake-launcher-0.4.2.jar",
+          "size": 25142,
+          "sha512": "517c0e27450025d0693450c0edaeea00fbd5f05231ef6b6aa557bd048829d61b32603d9139a27de2125f77df5dc656b4e3b4d6ddf10277bbcc179b3234506080",
+          "sha256": "f956fd0e84e199c560bc66a9a963fa95b46d34cc44a71d489ba3bb2fca064ba6",
+          "sha1": "00023b257a23fcac1432d12823eb97ba00f4cfd5",
+          "md5": "8e4954c92997ce2b844491691ebfe6b7"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "pancake-launcher-0.4.2-all.jar",
+          "url": "pancake-launcher-0.4.2-all.jar",
+          "size": 6918167,
+          "sha512": "8fc5d0ccd8a561b61fd8b74001ce192cd164a1830bb38c5ffcac6c82d8dd3ed0510eacca27d34962aaa0637b5864cfe0117a27a0f027adf5a9c9f2a42d678ae7",
+          "sha256": "0bf5009af4e836d0c601e69b0deed16758f447603a1b520f7d3066889bc5fa39",
+          "sha1": "b19aa87fbd1ebb3033061b3d696b46fd23353484",
+          "md5": "a4abb33229fe56fb2b1fccf0874b377e"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "pancake-launcher-0.4.2-sources.jar",
+          "url": "pancake-launcher-0.4.2-sources.jar",
+          "size": 15569,
+          "sha512": "fa0075354b7f232a3631c954492012fba6fa4a7afa9a9524f9a78a96744ef2996b59a2a24bd18005e2deb2f289ac083b0c2a1498cf8272252d5b80b7a882f85e",
+          "sha256": "6767df750cb852aea5b21895925034cebe63481fbb1ed8cdf9545a40e38bb5fd",
+          "sha1": "5b82c83c6e59b21dd9219468e208359bbffd1f6b",
+          "md5": "d763d39a1e548851e74d8f147adfcee7"
+        }
+      ]
+    }
+  ]
+}
