@@ -1,0 +1,84 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "sh.pancake",
+    "module": "pancake-sauce",
+    "version": "0.3.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1",
+      "buildId": "kefgn24o75gmdmef7x5xtrrkma"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "pancake-sauce-0.3.0.jar",
+          "url": "pancake-sauce-0.3.0.jar",
+          "size": 28531,
+          "sha512": "63e74ed7123cb2440b20d344f6faff0d104db4bc683eaf394fb7abd98439b1209ff1a5cdbe9aa191e63688dd50585e05a2af43121309165c1098c61ce01a7366",
+          "sha256": "f3fcc2d7384e0647a9a7f30f289b5eaa85b403107b9039b2339a93528ad03904",
+          "sha1": "6539e91d9f7549b51040d0eee12b7a6247f1d00f",
+          "md5": "b1063194ecd7dd88443b82189122896b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.ow2.asm",
+          "module": "asm",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-commons",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "30.1.1-jre"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "pancake-sauce-0.3.0.jar",
+          "url": "pancake-sauce-0.3.0.jar",
+          "size": 28531,
+          "sha512": "63e74ed7123cb2440b20d344f6faff0d104db4bc683eaf394fb7abd98439b1209ff1a5cdbe9aa191e63688dd50585e05a2af43121309165c1098c61ce01a7366",
+          "sha256": "f3fcc2d7384e0647a9a7f30f289b5eaa85b403107b9039b2339a93528ad03904",
+          "sha1": "6539e91d9f7549b51040d0eee12b7a6247f1d00f",
+          "md5": "b1063194ecd7dd88443b82189122896b"
+        }
+      ]
+    }
+  ]
+}
